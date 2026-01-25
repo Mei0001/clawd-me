@@ -1,0 +1,17 @@
+{
+  "crypto": [
+    {"name":"CoinDesk","rss":"https://www.coindesk.com/arc/outboundfeeds/rss/"},
+    {"name":"Decrypt","rss":"https://decrypt.co/feed"},
+    {"name":"Cointelegraph","rss":"https://cointelegraph.com/rss"},
+    {"name":"The Defiant","rss":"https://thedefiant.io/feed"},
+    {"name":"Ethereum Foundation Blog","rss":"https://blog.ethereum.org/feed.xml"}
+  ],
+  "ai": [
+    {"name":"OpenAI","rss":"https://openai.com/blog/rss.xml"},
+    {"name":"Anthropic","rss":"https://www.anthropic.com/news/rss.xml"},
+    {"name":"Google AI Blog","rss":"https://blog.google/technology/ai/rss/"},
+    {"name":"DeepMind","rss":"https://deepmind.google/discover/blog/rss.xml"},
+    {"name":"Hugging Face","rss":"https://huggingface.co/blog/feed.xml"},
+    {"name":"NVIDIA Developer Blog (AI)","rss":"https://developer.nvidia.com/blog/tag/artificial-intelligence/feed/"}
+  ]
+}
