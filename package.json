@@ -1,0 +1,24 @@
+{
+  "name": "clawd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mei0001/clawd-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mei0001/clawd-me/issues"
+  },
+  "homepage": "https://github.com/Mei0001/clawd-me#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
