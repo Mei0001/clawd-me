@@ -1,0 +1,490 @@
+{
+  "now": "2026-02-05T06:01:07.183518+09:00",
+  "since": "2026-02-04T06:01:07.183518+09:00",
+  "items_by_cat": {
+    "crypto": [
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356964/new-axie-infinity-ethereum-gaming-token-airdropped",
+        "time": "2026-02-05T05:47:12+09:00",
+        "title": "New ‘Axie Infinity’ Ethereum Gaming Token Will Be Airdropped to AXS Stakers",
+        "summary": "Ethereum crypto game Axie Infinity is introducing a new token that will be airdropped to stakers and those who play its upcoming land game."
+      },
+      {
+        "cat": "crypto",
+        "source": "The Defiant",
+        "url": "https://thedefiant.io/news/tradfi-and-fintech/losses-top-usd17-billion-at-crypto-treasury-companies",
+        "time": "2026-02-05T05:25:43+09:00",
+        "title": "Losses Top $17 Billion at Crypto Treasury Companies",
+        "summary": "The digital asset treasury (DAT) movement is drowning, with nearly every DAT underwater."
+      },
+      {
+        "cat": "crypto",
+        "source": "The Defiant",
+        "url": "https://thedefiant.io/news/defi/cap-airdrops-usd12-million-in-stablecoins-to-early-users",
+        "time": "2026-02-05T05:06:12+09:00",
+        "title": "Cap Airdrops $12 Million in Stablecoins to Early Users",
+        "summary": "The stablecoin protocol ended its “Frontier” rewards phase with a dollar-denominated token airdrop."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-open-interest-falls-by-dollar55b-in-30-days-what-s-next-for-btc-price",
+        "time": "2026-02-05T04:45:00+09:00",
+        "title": "Bitcoin open interest falls by $55B in 30 days: What’s next for BTC price?",
+        "summary": "Futures traders drastically reduced their activity as Bitcoin’s weakness extends and new year-to-date lows become a daily occurrence. Cointelegraph reviews traders’ BTC price expectations."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356929/bitcoin-dev-calls-adam-back-resign-epstein-files",
+        "time": "2026-02-05T04:22:00+09:00",
+        "title": "Early Bitcoin Dev Calls on Adam Back to Resign After Epstein Files Revelations",
+        "summary": "Bitcoin developer Luke Dashjr urged Blockstream CEO Adam Back to step down following a new release of files related to Jeffrey Epstein."
+      },
+      {
+        "cat": "crypto",
+        "source": "The Defiant",
+        "url": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-considers-crypto-token-launch",
+        "time": "2026-02-05T04:06:26+09:00",
+        "title": "CME Group Considers Crypto Token Launch",
+        "summary": "The world’s largest futures and options marketplace is exploring ‘tokenized cash’ as it leans further into crypto markets."
+      },
+      {
+        "cat": "crypto",
+        "source": "The Defiant",
+        "url": "https://thedefiant.io/news/infrastructure/coinbase-shopify-process-usd1-million-usdc-since-june-growthepie",
+        "time": "2026-02-05T03:49:21+09:00",
+        "title": "Payments Protocol by Coinbase, Shopify Processes Just $1.2M USDC Since June: growthepie",
+        "summary": "The partnership between Shopify, Coinbase and Stripe allows Shopify merchants to accept USDC payments settled on Base."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/us-treasury-bessent-wont-bail-out-bitcoin",
+        "time": "2026-02-05T03:48:33+09:00",
+        "title": "US won't 'bail out' Bitcoin, says Treasury Secretary Bessent",
+        "summary": "The comments came during Bessent's Congressional testimony on Wednesday in a tense exchange with California Representative Brad Sherman."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/price-predictions-2-4-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr",
+        "time": "2026-02-05T03:43:50+09:00",
+        "title": "Price predictions 2/4: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, XMR",
+        "summary": "Bitcoin price fell to a 15-month low of $72,169, leading one analyst to say a revisit of BTC’s realized price near $56,000 may occur in a few months. Do charts hint at a rebound rally before the weekend?"
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356936/can-government-bitcoin-congressman-bizarre-exchange-treasury-secretary",
+        "time": "2026-02-05T03:34:31+09:00",
+        "title": "Can the Government 'Bail Out' Bitcoin? Congressman Prompts Bizarre Exchange With Treasury Secretary",
+        "summary": "Treasury Secretary Scott Bessent got into a yelling match with another congressman over the Trump family’s crypto company, during testimony on Capitol Hill."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitnomial-launches-us-regulated-tezos-xtz-futures",
+        "time": "2026-02-05T03:30:37+09:00",
+        "title": "Bitnomial launches first US-regulated Tezos futures, allowing retail exposure to XTZ",
+        "summary": "The listing follows Bitnomial’s January launch of Aptos futures, as the exchange continues expanding US-regulated derivatives beyond Bitcoin and Ether."
+      },
+      {
+        "cat": "crypto",
+        "source": "The Defiant",
+        "url": "https://thedefiant.io/news/markets/crypto-markets-bleed-amid-tech-stock-selloff",
+        "time": "2026-02-05T03:23:33+09:00",
+        "title": "Crypto Markets Bleed Amid Tech Stock Selloff",
+        "summary": "Bitcoin is down 18% in seven days as tech stocks continue to disappoint."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356914/vitalik-buterin-moves-29-million-worth-of-ethereum-heres-why",
+        "time": "2026-02-05T03:12:37+09:00",
+        "title": "Vitalik Buterin Moves $29 Million Worth of Ethereum—Here's Why",
+        "summary": "Vitalik Buterin moves $29M in ETH to fund Ethereum Foundation as crypto markets tumble and he calls for major network changes."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356931/bitcoin-mining-stocks-plunge-btc-price-drops-20-percent",
+        "time": "2026-02-05T02:58:50+09:00",
+        "title": "Bitcoin Mining Stocks Dive as BTC Price Drops 20% in a Week",
+        "summary": "Shares in publicly traded Bitcoin miners are tumbling as the top crypto asset extends its losses to nearly 20% on the week."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-price-new-15-month-low-under-73k-crypto-liquidates-800m",
+        "time": "2026-02-05T02:31:12+09:00",
+        "title": "Bitcoin price sets new 15-month low under $73K as crypto liquidates $800M",
+        "summary": "Bitcoin fell to its lowest levels since November 2024 after beating its previous bottom, with $70,000 BTC price support and under coming into focus."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/fireblocks-stacks-institutional-bitcoin-defi",
+        "time": "2026-02-05T02:23:59+09:00",
+        "title": "Fireblocks to integrate Stacks for institutional-grade Bitcoin DeFi",
+        "summary": "The Bitcoin network has an average block time of about 10 minutes, which creates a challenge for decentralized finance applications."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/what-dubai-s-ban-on-monero-and-zcash-signals-for-regulated-crypto",
+        "time": "2026-02-05T02:02:35+09:00",
+        "title": "What Dubai’s ban on Monero and Zcash signals for regulated crypto",
+        "summary": "Dubai’s ban on privacy coins highlights how regulators are prioritizing transparency over anonymity in institutional crypto and regulated exchanges."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356924/ubs-ceo-details-crypto-plans-bitcoin-ethereum-trading-wealthy-clients",
+        "time": "2026-02-05T02:01:49+09:00",
+        "title": "UBS CEO Details Crypto Plans Following Report of Bitcoin, Ethereum Trading for Wealthy Clients",
+        "summary": "Publicly traded Swiss bank UBS is working on plans to offer digital assets trading and tokenized service offerings for users, its CEO said."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356923/ripple-broadens-institutional-defi-access-hyperliquid-integration",
+        "time": "2026-02-05T01:36:30+09:00",
+        "title": "Ripple Broadens Institutional DeFi Access With Hyperliquid Integration",
+        "summary": "Hyperliquid is booming lately as it expands with precious metals futures and more, and now Ripple Prime is letting institutional investors tap into it."
+      },
+      {
+        "cat": "crypto",
+        "source": "The Defiant",
+        "url": "https://thedefiant.io/news/defi/top-bnb-chain-prediction-market-opinion-raises-usd20-million",
+        "time": "2026-02-05T01:17:29+09:00",
+        "title": "Top BSC-Based Prediction Market Opinion Raises $20M",
+        "summary": "The funding round comes right after the platform had a record month for revenue and trading volume."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/xrp-price-slips-below-1-60-how-low-can-it-go-february",
+        "time": "2026-02-05T01:15:00+09:00",
+        "title": "XRP price slips below $1.60: How low can it go in February?",
+        "summary": "XRP’s bearish chart pattern signaled a possible price correction toward $1.22, fueled by declining demand and open interest."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-native-usdt-protocol-joins-ctdg-dev-hub",
+        "time": "2026-02-05T00:30:00+09:00",
+        "title": "Bitcoin-native USDT protocol joins CTDG Dev Hub",
+        "summary": "An emerging protocol enabling native USDT transactions on Bitcoin becomes the latest participant of CTDG Dev Hub, a developer-centric technical hub by Cointelegraph focused on protocol design, implementation approaches, and network upgrade proposals."
+      },
+      {
+        "cat": "crypto",
+        "source": "The Defiant",
+        "url": "https://thedefiant.io/news/tradfi-and-fintech/euro-stablecoin-growth-2030-report-s-and-p-global",
+        "time": "2026-02-05T00:27:32+09:00",
+        "title": "Euro Stablecoin Boom Will Be Driven by RWA Tokenization, Not Payments: S&amp; P Global",
+        "summary": "EUR-pegged stablecoins are set to grow 800x-1,600x by 2030, S&amp;P projects."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/crypto-vc-funding-doubled-in-2025-as-rwa-tokenization-took-the-lead",
+        "time": "2026-02-05T00:00:00+09:00",
+        "title": "Crypto VC Funding Doubled in 2025 as RWA Tokenization Took the Lead",
+        "summary": "Cointelegraph Research provides a data-driven report on crypto VCs, highlighting capital flows, sector rotation and changes in investor behavior."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/analyst-binance-reserves-steady-ftx-2-claims-manipulated-accounts",
+        "time": "2026-02-04T23:55:51+09:00",
+        "title": "Binance reserves steady as ‘FTX 2.0’ claims spread online",
+        "summary": "Binance shows stable onchain reserves and no immediate stress signals despite market volatility and a wave of criticism circulating on social media."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356911/tether-scales-back-20b-funding-push-after-investor-resistance-report",
+        "time": "2026-02-04T23:33:11+09:00",
+        "title": "Tether Scales Back $20B Funding Push After Investor Resistance: Report",
+        "summary": "Investor pushback on a $500 billion valuation has reportedly prompted Tether to rethink the size of its planned capital raise."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-key-trendline-68k-lining-up-save-btc-price-traders",
+        "time": "2026-02-04T23:03:45+09:00",
+        "title": "Bitcoin’s $68K trend line seen as potential BTC price floor: Traders",
+        "summary": "Bitcoin is approaching its 200-week moving averages, a long-term support zone traders say could help define a potential BTC price floor."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356902/vitalik-buterin-calls-for-inclusion-of-prediction-markets-daos-in-creator-coin-ecosystem",
+        "time": "2026-02-04T23:01:02+09:00",
+        "title": "Vitalik Buterin Calls for Inclusion of Prediction Markets, DAOs in Creator Coin Ecosystem",
+        "summary": "The Ethereum co-founder says that prediction markets and creator DAOs would reward inherent value, rather than celebrity or virality."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/crypto-investors-prioritize-infrastructure-over-defi-survey-finds",
+        "time": "2026-02-04T22:37:46+09:00",
+        "title": "Crypto investors prioritize infrastructure over DeFi, survey finds",
+        "summary": "Senior decision-makers flagged liquidity constraints and market depth as key barriers to institutional crypto adoption in 2026."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356905/morning-minute-trumps-crypto-entanglements-threaten-clarity-act-timeline",
+        "time": "2026-02-04T22:31:02+09:00",
+        "title": "Morning Minute: Trump's Crypto Entanglements Threaten CLARITY Act Timeline",
+        "summary": "World Liberty Financial's $500 million deal with the UAE is causing major backlash in Congress, with the Clarity Act caught in the crossfire."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/trm-labs-70m-investment-1b-crypto-unicorn",
+        "time": "2026-02-04T22:23:32+09:00",
+        "title": "TRM Labs completes $70M investment round at $1B, becomes crypto unicorn",
+        "summary": "Blockchain intelligence firm TRM Labs reached a $1 billion valuation after closing a $70 million Series C funding round backed by major financial institutions."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/house-of-lords-receives-warnings-stablecoin-inquiry",
+        "time": "2026-02-04T22:16:10+09:00",
+        "title": "Critics tell UK Lords stablecoins are not future money",
+        "summary": "At a House of Lords hearing, witnesses cast doubt on stablecoins as mainstream money, backing strict Bank of England oversight and criticizing the \"disastrous\" US GENIUS Act for letting non‑banks into “the money business.”"
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356903/sentiment-shifts-on-strategys-bitcoin-bid-as-crypto-market-selloff-deepens",
+        "time": "2026-02-04T22:09:50+09:00",
+        "title": "Sentiment Shifts on Strategy's Bitcoin Bid as Crypto Market Selloff Deepens",
+        "summary": "Prediction market users increasingly think that Strategy will sell some BTC—but analysts don't think Bitcoin's price crash \"changes anything.\""
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/mercado-bitcoin-expands-latam-rwa-push",
+        "time": "2026-02-04T22:01:57+09:00",
+        "title": "Mercado Bitcoin expands LatAm RWA push with $20M in Rootstock private credit",
+        "summary": "Brazil’s Mercado Bitcoin has issued more than $20 million in tokenized private credit on Bitcoin sidechain Rootstock and is targeting $100 million by April."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-bounces-76k-but-data-suggests-btc-price-downtrend-not-over",
+        "time": "2026-02-04T21:11:57+09:00",
+        "title": "Bitcoin bounces to $76K, but onchain and technical data signal deeper downside",
+        "summary": "Bitcoin’s rebound masks weak technicals and onchain signals that point to continued downside risk, with miners and exchange flows reinforcing the bearish trend."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/canada-ciro-interim-crypto-custody-framework",
+        "time": "2026-02-04T21:01:21+09:00",
+        "title": "Canada’s CIRO formalizes interim crypto custody framework",
+        "summary": "The Canadian self-regulatory organization outlined custody limits, capital thresholds and reporting rules while long-term regulation remains in progress."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356895/crypto-com-unveils-us-prediction-markets-platform-as-legal-pressure-mounts-on-rivals",
+        "time": "2026-02-04T20:31:45+09:00",
+        "title": "Crypto.com Unveils US Prediction Markets Platform as Legal Pressure Mounts on Rivals",
+        "summary": "Crypto.com’s standalone platform OG arrives as multiple states are taking enforcement actions against prediction market operators."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/ethereum-l2-builders-respond-vitalik-rollup-shift",
+        "time": "2026-02-04T20:18:12+09:00",
+        "title": "Arbitrum, Optimism and Base weigh in after Vitalik questions L2 scaling model",
+        "summary": "Base’s Jesse Pollak says L2s can’t be “Ethereum but cheaper” as builders respond to Vitalik Buterin’s call for specialization."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/tether-20-billion-raise-trim-500-billion-valuation-skepticism",
+        "time": "2026-02-04T20:16:27+09:00",
+        "title": "Tether CEO denies the company ever planned $20B raise",
+        "summary": "Tether CEO Paolo Ardoino scaled back the company's $20 billion funding plan, calling the target a \"misconception,\" while maintaining a $500 billion valuation."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/base-fixes-transaction-delays-config-error-layer2-lead",
+        "time": "2026-02-04T19:56:06+09:00",
+        "title": "Base says configuration change caused transaction delays, fixes issue",
+        "summary": "Base is rolling out month-long infrastructure upgrades aimed at preventing future transaction delays and improving overall network reliability."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/ethereum-price-classic-chart-pattern-suggests-eth-will-go-below-2k",
+        "time": "2026-02-04T19:40:44+09:00",
+        "title": "Ethereum price: Classic chart pattern puts sub-$2K ETH in focus",
+        "summary": "Ether risks declining toward the $1,665-$1,725 range in February, according to a confluence of bearish technical and on-chain indicators."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/whale-9b-bitcoin-sale-not-quantum-concerns-galaxy-digital",
+        "time": "2026-02-04T19:35:35+09:00",
+        "title": "Whale's $9B Bitcoin sale was not due to quantum concerns: Galaxy Digital",
+        "summary": "The firm addressed speculation that a multibillion-dollar client trade was motivated by concerns over Bitcoin’s resistance to future quantum computing advances."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-etf-aum-below-100-billion-first-since-april-2025",
+        "time": "2026-02-04T17:31:06+09:00",
+        "title": "Bitcoin ETF assets slip below $100B with fresh $272M outflows",
+        "summary": "Spot Bitcoin ETF AUM fell below $100 billion after $272 million in outflows, pushing year-to-date losses close to $1.3 billion."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitwise-acquire-chorus-one-crypto-staking-demand-surges",
+        "time": "2026-02-04T16:47:32+09:00",
+        "title": "Bitwise to acquire crypto staking company Chorus One: Report",
+        "summary": "The reported acquisition comes as Ethereum staking demand surges, with more than 30% of ETH supply locked and validator wait times stretching beyond 70 days."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356877/operator-crypto-fueled-dark-web-drug-market-sentenced-30-years",
+        "time": "2026-02-04T15:35:35+09:00",
+        "title": "Operator of Crypto-Fueled Dark Web Drug Market Sentenced to 30 Years",
+        "summary": "The Incognito Market operator extorted vendors by threatening to publish their transaction histories and crypto addresses."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/aave-shuts-down-avara-family-wallet-refocus-defi",
+        "time": "2026-02-04T15:09:47+09:00",
+        "title": "Aave winds down Avara, phases out Family wallet in DeFi refocus",
+        "summary": "Aave says all current and future products will move under Aave Labs, while the Family wallet iOS app is wound down and user accounts remain supported."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/crypto-com-launches-new-prediction-market-platform-after-40x-growth",
+        "time": "2026-02-04T14:40:52+09:00",
+        "title": "Crypto.com launches standalone prediction market app ‘OG’",
+        "summary": "Crypto.com has spun out its prediction markets business into a standalone platform after reporting explosive growth, entering a crowded but booming industry."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/polymarket-kalshi-giving-away-free-groceries-nyc",
+        "time": "2026-02-04T14:10:57+09:00",
+        "title": "Polymarket, Kalshi clash over groceries as prediction markets boom",
+        "summary": "The grocery giveaways come as Kalshi and Polymarket lead prediction market trading volumes, which have recently exceeded $400 million per day."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356874/nevada-bar-coinbases-prediction-markets-state-gaming-license",
+        "time": "2026-02-04T13:59:59+09:00",
+        "title": "Nevada Moves to Bar Coinbase’s Prediction Markets Without State Gaming License",
+        "summary": "Nevada's enforcement action comes after Coinbase filed federal lawsuits challenging three other states over prediction market jurisdiction."
+      },
+      {
+        "cat": "crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/ethereum-post-fusaka-dust-attacks-overstated-making-only-11-of-txs-research",
+        "time": "2026-02-04T13:39:59+09:00",
+        "title": "Stablecoin ‘dust’ txs on Ethereum triple post-Fusaka: Coin Metrics",
+        "summary": "Analysis of 227 million USDC and USDT balance updates found that 43% were dust transfers under $1, said Coin Metrics."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356871/bitcoin-risks-further-slide-momentum-weakens-key-support",
+        "time": "2026-02-04T12:20:47+09:00",
+        "title": "Bitcoin Risks Further Slide as Momentum Weakens Below Key Support",
+        "summary": "Fragile momentum and macro uncertainty are keeping Bitcoin and the broader crypto market at risk of further declines, analysts say."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356867/alleged-bitcoin-ransom-note-tmz-guthrie-missing-mother",
+        "time": "2026-02-04T10:33:00+09:00",
+        "title": "Alleged Bitcoin Ransom Note Sent to TMZ in Case Involving 'Today' Show Host's Missing Mother",
+        "summary": "Authorities say they are reviewing reports of a Bitcoin ransom note tied to the case of Today show host Savannah Guthrie's missing mother."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356841/we-need-new-path-ethereum-founder-vitalik-buterin-rips-up-l2-focused-roadmap",
+        "time": "2026-02-04T08:01:02+09:00",
+        "title": "'We Need a New Path': Ethereum Founder Vitalik Buterin Rips Up L2-Focused Roadmap",
+        "summary": "Some layer-2 networks have made concessions when it comes to decentralization, Buterin said, and shouldn’t be “branded” as extensions of Ethereum."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356838/french-police-raid-x-paris-office-probe-grok-ai",
+        "time": "2026-02-04T07:32:15+09:00",
+        "title": "French Police Raid X’s Paris Office in Probe of Grok AI and Illegal Content",
+        "summary": "The French action comes as investigations into X’s Grok chatbot expand across multiple jurisdictions, including the UK and EU."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356795/ai-made-sam-altman-feel-useless-sad-x-users-tried-make-him-feel-worse",
+        "time": "2026-02-04T07:30:50+09:00",
+        "title": "AI Made Sam Altman Feel 'Useless and Sad'—X Users Tried to Make Him Feel Worse",
+        "summary": "OpenAI CEO Sam Altman said Codex made him feel useless. X users responded by roasting his vulnerability—and airing months of anger over AI job losses."
+      },
+      {
+        "cat": "crypto",
+        "source": "The Defiant",
+        "url": "https://thedefiant.io/news/defi/limitless-token-rallies-as-monthly-volume-tops-usd200-million",
+        "time": "2026-02-04T07:06:12+09:00",
+        "title": "Limitless Token Rallies as Monthly Volume Tops $200 Million",
+        "summary": "The prediction market on Base recorded a spike in trading volumes at the end of January."
+      },
+      {
+        "cat": "crypto",
+        "source": "Decrypt",
+        "url": "https://decrypt.co/356784/crypto-dev-ai-hire-humans",
+        "time": "2026-02-04T06:27:07+09:00",
+        "title": "Crypto Dev Launches Site for AI to Hire Humans",
+        "summary": "Riding OpenClaw’s viral moment, a new startup called RentAHuman.ai pitches itself as the “meatspace layer” for autonomous agents—letting bots pay people to do the things software still can’t."
+      }
+    ],
+    "ai": [
+      {
+        "cat": "ai",
+        "source": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+        "time": "2026-02-05T01:55:00+09:00",
+        "title": "The latest AI news we announced in January",
+        "summary": "mp4 showing a carousel of images including a card reading \"Help that's made for you\""
+      },
+      {
+        "cat": "ai",
+        "source": "Hugging Face",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
+        "time": "2026-02-05T00:00:40+09:00",
+        "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
+        "summary": ""
+      },
+      {
+        "cat": "ai",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/vfl-wolfsburg",
+        "time": "2026-02-04T09:00:00+09:00",
+        "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+        "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity."
+      }
+    ]
+  }
+}
