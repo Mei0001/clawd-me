@@ -8,9 +8,9 @@
   ],
   "ai": [
     {"name":"OpenAI","rss":"https://openai.com/blog/rss.xml"},
-    {"name":"Anthropic","rss":"https://www.anthropic.com/news/rss.xml"},
+    {"name":"Anthropic (Status)","rss":"https://status.claude.com/history.rss"},
     {"name":"Google AI Blog","rss":"https://blog.google/technology/ai/rss/"},
-    {"name":"DeepMind","rss":"https://deepmind.google/discover/blog/rss.xml"},
+    {"name":"DeepMind","rss":"https://deepmind.google/blog/rss.xml"},
     {"name":"Hugging Face","rss":"https://huggingface.co/blog/feed.xml"},
     {"name":"NVIDIA Developer Blog (AI)","rss":"https://developer.nvidia.com/blog/tag/artificial-intelligence/feed/"}
   ]
