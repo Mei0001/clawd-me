@@ -1,623 +1,496 @@
 {
-  "generatedAt": "2026-02-11T06:33:47.068600+09:00",
-  "cutoff": "2026-02-10T06:33:47.068600+09:00",
-  "count": 77,
+  "generatedAt": "2026-02-13T21:02:16.373Z",
+  "cutoff": "2026-02-12T21:00:00.000Z",
+  "count": 61,
   "items": [
     {
       "cat": "crypto",
       "source": "CoinDesk",
-      "title": "Citadel Securities backs LayerZero as it unveils ‘Zero’ blockchain for global markets",
-      "link": "https://www.coindesk.com/tech/2026/02/10/citadel-securities-backs-layerzero-as-it-unveils-zero-blockchain-for-global-markets",
-      "published": "2026-02-11T06:30:00+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "The Defiant",
-      "title": "Interop Protocol LayerZero Unveils L1 Blockchain Zero",
-      "link": "https://thedefiant.io/news/blockchains/layerzero-unveils-layer-1-blockchain-zero",
-      "published": "2026-02-11T06:30:00+09:00",
-      "summary": "Alongside its permissionless blockchain, the firm also revealed investments from Citadel Securities and ARK Invest."
-    },
-    {
-      "cat": "crypto",
-      "source": "Decrypt",
-      "title": "Robinhood Shares Slide on Q4 Miss Amid Bitcoin, Crypto Weakness",
-      "link": "https://decrypt.co/357649/robinhood-shares-slide-q4-miss-bitcoin-crypto-weakness",
-      "published": "2026-02-11T06:28:26+09:00",
-      "summary": "Robinhood disclosed $1.28 billion in fourth-quarter revenue, missing Wall Street expectations amid crypto's latest downturn."
+      "title": "Trump-linked Truth Social seeks SEC approval for two crypto ETFs",
+      "link": "https://www.coindesk.com/markets/2026/02/13/trump-linked-truth-social-seeks-sec-approval-for-two-crypto-etfs",
+      "published": "2026-02-13T20:45:28.000Z",
+      "summary": "The filings include a bitcoin and ether ETF and a staking-focused Cronos fund, deepening the Truth Social brand’s ambitions in digital asset investing."
     },
     {
       "cat": "crypto",
       "source": "Cointelegraph",
-      "title": "SBF seeks new FTX fraud trial, citing new witness testimony",
-      "link": "https://cointelegraph.com/news/sam-bankman-fried-ftx-new-trial-fraud-case",
-      "published": "2026-02-11T06:21:44+09:00",
-      "summary": "Sam Bankman-Fried asked a federal appeals panel for a new trial in the FTX fraud case, arguing that new witness testimony could weaken the case that led to his 25-year sentence."
+      "title": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
+      "link": "https://cointelegraph.com/news/price-predictions-2-13-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr",
+      "published": "2026-02-13T20:30:00.000Z",
+      "summary": "Bitcoin and several major altcoins are attempting a relief rally, signaling that the bulls are trying to form a higher low."
     },
     {
       "cat": "crypto",
       "source": "Decrypt",
-      "title": "SafeMoon CEO Gets 8 Years in Prison for Crypto Fraud Scheme",
-      "link": "https://decrypt.co/357644/safemoon-ceo-8-years-prison-crypto-fraud-scheme",
-      "published": "2026-02-11T05:45:46+09:00",
-      "summary": "Braden Karony, the CEO of SafeMoon, was sentenced to 100 months in prison for his role in a crypto fraud scheme that cost victims millions."
+      "title": "Clarity Act Passage Would 'Comfort' Markets Amid Bitcoin Volatility: Treasury Secretary Bessent",
+      "link": "https://decrypt.co/358067/clarity-act-passage-comfort-markets-bitcoin-volatility-bessent",
+      "published": "2026-02-13T20:29:22.000Z",
+      "summary": "U.S. Treasury Secretary Scott Bessent suggested that the crypto market would be calmed by the passage of the Clarity Act."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "Dutch House of Representatives advances controversial 36% tax law",
+      "link": "https://cointelegraph.com/news/dutch-house-advances-36-tax-law",
+      "published": "2026-02-13T20:05:40.000Z",
+      "summary": "Certain assets, like equity in a qualifying start-up company and physical property used for non-investment, were exempt from the 36% tax."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "Digital gold or tech stock? Bitcoin’s identity crisis deepens",
+      "link": "https://cointelegraph.com/news/digital-gold-or-tech-stock-bitcoin-s-identity-crisis-deepens",
+      "published": "2026-02-13T20:00:00.000Z",
+      "summary": "Bitcoin’s growing correlation with tech stocks challenges its digital gold narrative, as Ether treasuries, BlackRock and Polymarket make bold moves."
     },
     {
       "cat": "crypto",
       "source": "The Defiant",
-      "title": "Onchain Options Volumes Hit All-Time Highs as Lending Yields Dry Up",
-      "link": "https://thedefiant.io/news/defi/onchain-options-volumes-hit-all-time-highs-as-lending-yields-dry-up",
-      "published": "2026-02-11T05:44:03+09:00",
-      "summary": "Options premium volumes and trading activity are ramping up as users explore new areas in DeFi."
+      "title": "Lighter Enables Unified Collateral for Spot and Futures Trading",
+      "link": "https://thedefiant.io/news/defi/lighter-enables-unified-collateral-for-spot-and-futures-trading",
+      "published": "2026-02-13T19:55:44.000Z",
+      "summary": "LIT surged 13% following a week of product updates."
     },
     {
       "cat": "crypto",
       "source": "CoinDesk",
-      "title": "Ex-SafeMoon CEO gets 8-year prison sentence for defrauding investors",
-      "link": "https://www.coindesk.com/policy/2026/02/10/ex-safemoon-ceo-gets-8-year-prison-sentence-for-defrauding-investors",
-      "published": "2026-02-11T05:24:53+09:00",
-      "summary": ""
+      "title": "Crypto group counters Wall Street bankers with its own stablecoin principles for bill",
+      "link": "https://www.coindesk.com/policy/2026/02/13/crypto-group-counters-wall-street-bankers-with-its-own-stablecoin-principles-for-bill",
+      "published": "2026-02-13T19:25:19.000Z",
+      "summary": "After the bankers shared a document at the White House demanding a total ban on stablecoin yield, the crypto side answers that it needs some stablecoin rewards."
     },
     {
       "cat": "crypto",
       "source": "Cointelegraph",
-      "title": "State Street warns dollar could fall 10% if Fed cuts more than expected",
-      "link": "https://cointelegraph.com/news/state-street-us-dollar-decline-fed-rate-cuts",
-      "published": "2026-02-11T05:21:48+09:00",
-      "summary": "State Street argues the US dollar could fall to multi-year lows if the Fed cuts rates more aggressively, a scenario that could shift capital toward Bitcoin and risk assets."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Sam Bankman-Fried files for new trial over FTX fraud charges",
-      "link": "https://www.coindesk.com/policy/2026/02/10/sam-bankman-fried-files-for-new-trial-over-ftx-fraud-charges",
-      "published": "2026-02-11T05:12:02+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "The Defiant",
-      "title": "Balancer DAO Caps Recovery Bounty at 10% After $128M Exploit",
-      "link": "https://thedefiant.io/news/hacks/balancer-dao-caps-recovery-bounty-at-10-percent-after-november-exploit",
-      "published": "2026-02-11T05:04:23+09:00",
-      "summary": "Balancer’s security team had earlier posted a 20% one-time offer to the attacker behind the November exploit."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Ledger adds OKX DEX integration for on-device token swaps",
-      "link": "https://cointelegraph.com/news/ledger-wallet-integrates-okx-dex-expanding-on-device-access-to-defi-swaps",
-      "published": "2026-02-11T04:48:17+09:00",
-      "summary": "The integration allows Ledger users to execute multichain token swaps directly from the Wallet app while retaining hardware-based custody."
+      "title": "Bitcoin bulls blitz $69K as retail traders pressure short positioning",
+      "link": "https://cointelegraph.com/news/bitcoin-bulls-blitz-dollar69k-as-retail-traders-pressure-short-positioning",
+      "published": "2026-02-13T19:21:46.000Z",
+      "summary": "Bitcoin rallies above $69,000 as retail traders apply pressure to short positions and aim to generate a lasting bullish trend change."
     },
     {
       "cat": "crypto",
       "source": "Decrypt",
-      "title": "Strategy Will Buy Bitcoin 'Forever', Says Michael Saylor—Even With $5 Billion Paper Loss",
-      "link": "https://decrypt.co/357635/strategy-buy-bitcoin-forever-saylor-5-billion-paper-loss",
-      "published": "2026-02-11T04:32:18+09:00",
-      "summary": "Bitcoin bull Michael Saylor said Tuesday that Strategy will keep buying BTC, even with its bet now billions of dollars underwater."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Concerns over Strategy selling bitcoin are 'unfounded,' Michael Saylor says",
-      "link": "https://www.coindesk.com/markets/2026/02/10/concerns-over-strategy-selling-bitcoin-are-unfounded-michael-saylor-says",
-      "published": "2026-02-11T04:18:10+09:00",
-      "summary": ""
+      "title": "Bitcoin Bounces to $69K, But Charts Are Still Bearish: Analysis",
+      "link": "https://decrypt.co/358049/bitcoin-bounces-69k-charts-bearish",
+      "published": "2026-02-13T19:00:57.000Z",
+      "summary": "Bitcoin's rebound from $60K lows may be a dead cat bounce, as the daily charts scream caution and prediction markets price in more pain."
     },
     {
       "cat": "crypto",
       "source": "Cointelegraph",
-      "title": "Rare Bitcoin signal flashes: Will a 220% BTC price rally follow?",
-      "link": "https://cointelegraph.com/news/rare-bitcoin-signal-flashes-will-a-220percent-btc-price-rally-follow",
-      "published": "2026-02-11T04:16:06+09:00",
-      "summary": "Multiple long-term Bitcoin valuation models suggest that BTC’s drop to $60,000 opened up a rare discounted buying opportunity. Do traders and institutional investors agree?"
+      "title": "BlackRock enters DeFi as institutional crypto push accelerates: Finance Redefined",
+      "link": "https://cointelegraph.com/news/blackrock-enters-defi-institutional-crypto-push-finance-redefined",
+      "published": "2026-02-13T19:00:00.000Z",
+      "summary": "Bitcoin and Ether rebounded modestly as ETF outflows mounted, while BlackRock entered DeFi and Binance completed its $1 billion Bitcoin reserve shift."
     },
     {
       "cat": "crypto",
       "source": "The Defiant",
-      "title": "Kaito and Polymarket Unveil 'Attention Markets'",
-      "link": "https://thedefiant.io/news/defi/kaito-and-polymarket-unveil-attention-markets",
-      "published": "2026-02-11T04:01:53+09:00",
-      "summary": "Kaito and Polymarket have launched 'Attention Markets', merging attention measurement technology with prediction market infrastructure to track cultural narratives."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "UK Central Bank taps firms to test elements of distributed-ledger settlement infrastructure",
-      "link": "https://cointelegraph.com/news/bank-of-england-selects-chainlink-for-synchronisation-lab-to-test-onchain-settlement-with-central-bank-money",
-      "published": "2026-02-11T03:44:39+09:00",
-      "summary": "The six-month central bank pilot brings together market infrastructure providers, banks and Web3 companies to assess how core UK markets could move onchain."
+      "title": "Tomasz Stańczak to Step Down from Ethereum Foundation",
+      "link": "https://thedefiant.io/news/blockchains/tomasz-stanczak-to-step-down-from-ethereum-foundation",
+      "published": "2026-02-13T18:40:59.000Z",
+      "summary": "Bastian Aue will take over the co-executive director role alongside Hsiao-Wei."
     },
     {
       "cat": "crypto",
       "source": "Decrypt",
-      "title": "FTX Founder Sam Bankman-Fried Requests New Trial After Firing Attorney",
-      "link": "https://decrypt.co/357619/ftx-founder-sam-bankman-fried-requests-new-trial-firing-attorney",
-      "published": "2026-02-11T03:36:14+09:00",
-      "summary": "Former FTX CEO Sam Bankman-Fried appears to be claiming he has discovered new evidence in his case that could lead to a jury acquittal."
-    },
-    {
-      "cat": "crypto",
-      "source": "The Defiant",
-      "title": "Bitcoin Holds Near $69,000 as Near-Term Backdrop ‘Remains Fragile’",
-      "link": "https://thedefiant.io/news/markets/bitcoin-holds-near-usd69k-market-update-feb-10-2026",
-      "published": "2026-02-11T02:16:14+09:00",
-      "summary": "Most large-cap crypto assets are flat or slightly down today, while ETF flows turned positive."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Bitcoin is trading like a growth asset, not digital gold: Grayscale",
-      "link": "https://cointelegraph.com/news/bitcoin-trading-growth-asset-not-digital-gold-grayscale",
-      "published": "2026-02-11T02:13:03+09:00",
-      "summary": "New Grayscale research shows Bitcoin’s price behavior is increasingly tied to equities, particularly software stocks, challenging its long-held safe-haven narrative in the short term."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Struggling Coinbase gets price target cut from JPMorgan ahead of Thursday earnings",
-      "link": "https://www.coindesk.com/markets/2026/02/10/struggling-coinbase-gets-price-target-cut-from-jpmorgan-ahead-of-thursday-earnings",
-      "published": "2026-02-11T02:00:51+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "ai",
-      "source": "Google AI Blog",
-      "title": "9 fun questions to try asking Google Photos",
-      "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
-      "published": "2026-02-11T02:00:00+09:00",
-      "summary": "A collage of outdoor images, a blue icon that say \"Ask Photos,\" and examples of Ask Photos prompts."
-    },
-    {
-      "cat": "crypto",
-      "source": "Decrypt",
-      "title": "Crypto Exchange Blockchain.com Secures FCA Registration in UK",
-      "link": "https://decrypt.co/357599/crypto-exchange-blockchain-com-fca-registration-uk",
-      "published": "2026-02-11T01:59:51+09:00",
-      "summary": "The Financial Conduct Authority has approved the crypto exchange to offer crypto services in the UK, following its European MiCA license."
+      "title": "Binance France CEO Targeted in Home Invasion Attempt: Report",
+      "link": "https://decrypt.co/358041/binance-france-ceo-targeted-home-invasion-report",
+      "published": "2026-02-13T18:12:35.000Z",
+      "summary": "The CEO of Binance France was targeted in a recent home invasion attempt, but the executive was unharmed and the criminals were arrested."
     },
     {
       "cat": "ai",
       "source": "Anthropic (Status)",
-      "title": "Opus 4.6 Fast Mode small amount of errors",
-      "link": "https://status.claude.com/incidents/cm6rfz7dzy90",
-      "published": "2026-02-11T01:28:43+09:00",
-      "summary": "Feb 10, 16:28 UTCResolved - This incident has been resolved.Feb 10, 13:20 UTCIdentified - The issue has been identified and a fix is being implemented.Feb 10, 11:23 UTCInvestigating - Starting at about 02:05 PST Opus 4.6 Fast Mode serves a small amount of errors. We are investigating."
+      "title": "MCP not working in Research in claude.ai",
+      "link": "https://status.claude.com/incidents/9zrz07205y1r",
+      "published": "2026-02-13T17:56:08.000Z",
+      "summary": "Feb 13, 17:56 UTC Investigating - We are currently investigating this issue."
     },
     {
       "cat": "crypto",
       "source": "Decrypt",
-      "title": "Google Warns of AI-Powered North Korean Malware Campaign Targeting Crypto, DeFi",
-      "link": "https://decrypt.co/357601/google-warns-of-ai-powered-north-korean-malware-campaign-targeting-crypto-defi",
-      "published": "2026-02-11T01:21:11+09:00",
-      "summary": "The Mandiant security team says North Korean hackers are upgrading their social engineering tactics to include AI-generated video."
+      "title": "$3.85 Million in Ethereum From Mixin Network Hack Sent to Tornado Cash",
+      "link": "https://decrypt.co/358032/3-million-ethereum-mixin-network-hack-tornado-cash",
+      "published": "2026-02-13T17:50:53.000Z",
+      "summary": "Wallets linked to the $200 million exploit of Mixin in 2023 woke after nearly two years and moved funds to coin mixer Tornado Cash."
     },
     {
       "cat": "crypto",
       "source": "Decrypt",
-      "title": "CFTC's 'Top Cop' Legal Team Eliminated Amid Embrace of Crypto, Prediction Markets: Report",
-      "link": "https://decrypt.co/357602/cftc-legal-team-completely-eliminated-crypto-prediction-markets",
-      "published": "2026-02-11T01:12:36+09:00",
-      "summary": "The agency’s flagship Chicago office now has zero enforcement attorneys, according to a report. In the last year, monetary relief secured by the CFTC plunged by over 99.9%."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Tether invests in LayerZero Labs as it doubles down on cross-chain tech, agentic finance",
-      "link": "https://www.coindesk.com/business/2026/02/10/tether-invests-in-layerzero-labs-as-it-doubles-down-on-cross-chain-tech-agentic-finance",
-      "published": "2026-02-11T01:04:43+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin remains in tight range under $70,000 ahead of Wednesday's U.S. jobs report",
-      "link": "https://www.coindesk.com/markets/2026/02/10/bitcoin-remains-in-tight-range-near-usd70-000-ahead-of-wednesday-s-u-s-jobs-report",
-      "published": "2026-02-11T01:01:26+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Crypto exchange Kraken fires chief financial officer ahead of long-awaited IPO",
-      "link": "https://www.coindesk.com/business/2026/02/10/crypto-exchange-kraken-fires-chief-financial-officer-ahead-of-long-awaited-ipo",
-      "published": "2026-02-11T00:44:37+09:00",
-      "summary": ""
+      "title": "Coinbase Stock Surges After Q4 Miss as Analysts Call It 'Too Cheap to Sell'",
+      "link": "https://decrypt.co/358033/coinbase-stock-surges-q4-miss-analysts-too-cheap-sell",
+      "published": "2026-02-13T17:45:21.000Z",
+      "summary": "Coinbase just fell short of Wall Street expectations, but investors are overlooking the exchange’s resiliency, according to Bernstein."
     },
     {
       "cat": "crypto",
       "source": "Cointelegraph",
-      "title": "What it actually takes to prove someone is Satoshi Nakamoto",
-      "link": "https://cointelegraph.com/explained/what-it-actually-takes-to-prove-someone-is-satoshi-nakamoto",
-      "published": "2026-02-11T00:38:13+09:00",
-      "summary": "Discover the real evidence required to prove someone is Satoshi Nakamoto and why past claims failed to meet Bitcoin’s cryptographic standard."
+      "title": "Anchorage, Kamino let institutions borrow against SOL without moving custody",
+      "link": "https://cointelegraph.com/news/anchorage-kamino-institutions-borrow-against-sol-without-moving-custody",
+      "published": "2026-02-13T17:37:15.000Z",
+      "summary": "A new framework allows institutions to borrow against staked SOL while the assets remain in qualified custody, as US lawmakers debate DeFi oversight."
+    },
+    {
+      "cat": "crypto",
+      "source": "The Defiant",
+      "title": "Truth Social Files for Digital Asset ETFs",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/truth-social-files-for-digital-asset-etfs",
+      "published": "2026-02-13T17:35:54.000Z",
+      "summary": "Truth Social Funds has filed with the SEC to launch two digital asset ETFs, aiming to integrate cryptocurrencies into traditional financial markets and attract new investors."
     },
     {
       "cat": "crypto",
       "source": "Cointelegraph",
-      "title": "Do Super Bowl ads predict a bubble? Dot-coms, crypto and now AI",
-      "link": "https://cointelegraph.com/news/crypto-ads-super-bowl-ai-bubble",
-      "published": "2026-02-11T00:30:53+09:00",
-      "summary": "Super Bowl LX featured 10 ads for different AI products, and some observers believe it could be a sign that the AI financial bubble will soon burst."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Vitalik Buterin outlines how Ethereum could play a key role in the future of AI",
-      "link": "https://www.coindesk.com/business/2026/02/10/vitalik-buterin-outlines-how-ethereum-could-play-a-key-role-in-the-future-of-ai",
-      "published": "2026-02-11T00:29:04+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Flash Freezing Flash Boys: Per-transaction encryption to fight malicious MEV",
-      "link": "https://cointelegraph.com/news/flash-freezing-flash-boys-per-transaction-encryption-to-fight-malicious-mev",
-      "published": "2026-02-11T00:00:00+09:00",
-      "summary": "Flash Freezing Flash Boys is a novel proposal for per-transaction encryption to prevent frontrunning."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "published": "2026-02-10T23:18:07+09:00",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: index falls 3.4% as all constituents trade lower",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/02/10/coindesk-20-performance-update-index-falls-3-4-as-all-constituents-trade-lower",
-      "published": "2026-02-10T23:09:53+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "Decrypt",
-      "title": "Prediction Markets Grew 4X to $63.5B in 2025, But Risk Structural Strain: CertiK",
-      "link": "https://decrypt.co/357583/prediction-markets-grew-4x-to-63-5b-in-2025-but-risk-structural-strain-certik",
-      "published": "2026-02-10T23:01:03+09:00",
-      "summary": "Incentive-driven volume, fragile security design, and state pushback could test prediction markets in 2026, according to a new report."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Bitcoin price punishes traders as 24-hour crypto liquidations pass $250M",
-      "link": "https://cointelegraph.com/news/bitcoin-price-punishes-traders-24-hour-crypto-liquidations-pass-250m",
-      "published": "2026-02-10T22:45:37+09:00",
-      "summary": "Bitcoin sparked mass long and short BTC liquidations while staying rangebound around $70,000 as analysis predicted a local support retest."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Bitcoin’s $60K crash may mark halfway point of bear market: Kaiko",
-      "link": "https://cointelegraph.com/news/bitcoin-crash-60k-halfway-point-crypto-bear-market",
-      "published": "2026-02-10T22:45:37+09:00",
-      "summary": "Analysts are split on whether the drop represents a cycle low or a pause before further downside."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Blockchain.com wins UK registration nearly four years after abandoning FCA process",
-      "link": "https://www.coindesk.com/policy/2026/02/10/blockchain-com-wins-uk-registration-nearly-four-years-after-abandoning-fca-process",
-      "published": "2026-02-10T22:44:54+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Bitcoin's Mayer Multiple hits 2022 levels: Where is BTC price bottom?",
-      "link": "https://cointelegraph.com/news/bitcoin-mayer-multiple-hits-2022-where-is-btc-price-bottom",
-      "published": "2026-02-10T22:33:49+09:00",
-      "summary": "The Bitcoin Mayer Multiple reached 0.65, echoing the deep bear market conditions of 2022 and sparking debate on whether BTC's real bottom lies at $50,000 or lower."
-    },
-    {
-      "cat": "crypto",
-      "source": "Decrypt",
-      "title": "Morning Minute: More Boos Than Cheers for Coinbase Super Bowl Ad",
-      "link": "https://decrypt.co/357592/morning-minute-more-boos-than-cheers-for-coinbase-super-bowl-ad",
-      "published": "2026-02-10T22:31:02+09:00",
-      "summary": "Do the reaction videos reveal a deeper problem plaguing the current state of crypto?"
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin a tech trade for now, not digital gold, says Grayscale",
-      "link": "https://www.coindesk.com/markets/2026/02/10/bitcoin-a-tech-trade-for-now-not-digital-gold-says-grayscale",
-      "published": "2026-02-10T22:23:31+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Phantom Chat under scrutiny after $264K address poisoning loss",
-      "link": "https://cointelegraph.com/news/phantom-chat-address-poisoning-bitcoin-phishing",
-      "published": "2026-02-10T22:22:24+09:00",
-      "summary": "Phantom Chat is under scrutiny after a phishing attack drained $264,000 in Wrapped Bitcoin, renewing concerns over wallet UX and address poisoning scams."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "UK regulator takes High Court action against HTX over crypto promotions",
-      "link": "https://cointelegraph.com/news/fca-action-htx-exchange-illegal-financial-promotion",
-      "published": "2026-02-10T22:00:41+09:00",
-      "summary": "The UK’s financial watchdog sued Panama-based HTX exchange and unidentified persons, alleging illegal crypto promotions on social media despite warnings."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "AI mania is helping cap crypto's upside, Wintermute says",
-      "link": "https://www.coindesk.com/daybook-us/2026/02/10/ai-mania-is-helping-cap-crypto-s-upside-wintermute-says",
-      "published": "2026-02-10T21:53:11+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "Decrypt",
-      "title": "Where Next for Bitcoin? The Bull and Bear Case",
-      "link": "https://decrypt.co/357585/where-next-for-bitcoin-the-bull-and-bear-case",
-      "published": "2026-02-10T21:46:28+09:00",
-      "summary": "Analysts remain split on Bitcoin's next move: a short squeeze toward $84K or a 6-12-month grind toward $55K."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Jump Trading to take small stakes in Polymarket, Kalshi: Bloomberg",
-      "link": "https://www.coindesk.com/business/2026/02/10/jump-trading-to-take-small-stakes-in-polymarket-kalshi-bloomberg",
-      "published": "2026-02-10T21:15:25+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Memecoins post gains as largest crypto tokens languish",
-      "link": "https://www.coindesk.com/markets/2026/02/10/memecoins-lead-crypto-market-gains-as-biggest-tokens-languish",
-      "published": "2026-02-10T20:50:53+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Solana treasuries sitting on over $1.5B in paper SOL losses",
-      "link": "https://cointelegraph.com/news/solana-treasury-firms-unrealized-losses-equity-repricing",
-      "published": "2026-02-10T20:36:27+09:00",
-      "summary": "Public companies that amassed large Solana positions in 2025 have paused accumulation as equity markets reprice SOL-heavy balance sheets."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "South Korea probes Bithumb after $43B ‘phantom’ Bitcoin payout",
-      "link": "https://cointelegraph.com/news/south-korea-probes-bithumb-paper-bitcoin-error",
-      "published": "2026-02-10T20:01:20+09:00",
-      "summary": "South Korean authorities launched an investigation into Bithumb after it mistakenly credited 620,000 BTC to users, adding to concerns about “paper Bitcoin” and internal controls."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Fugitive foreigner sentenced in the U.S. to 20 years for $73 million crypto scam",
-      "link": "https://www.coindesk.com/business/2026/02/10/fugitive-foreigner-sentenced-in-the-u-s-to-20-years-for-usd73-million-crypto-scam",
-      "published": "2026-02-10T19:17:47+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Crypto scam mastermind gets 20 years for $73M pig butchering scheme",
-      "link": "https://cointelegraph.com/news/crypto-pig-butchering-scam-20-year-sentence",
-      "published": "2026-02-10T18:55:04+09:00",
-      "summary": "A US court sentenced Daren Li to 20 years in prison for leading a $73 million crypto pig butchering scam targeting American investors."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Gemini exit a ‘blow for policymakers’ with UK crypto hub ambitions",
-      "link": "https://cointelegraph.com/news/gemini-exit-tests-uk-crypto-hub-ambitions",
-      "published": "2026-02-10T18:37:22+09:00",
-      "summary": "Industry groups and exchanges said the United Kingdom’s slow, overlapping crypto rules and compliance frictions are undermining its “global hub” ambition."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "I'm not confident we hit a true capitulation in bitcoin, derivatives expert says",
-      "link": "https://www.coindesk.com/markets/2026/02/10/i-m-not-confident-we-hit-a-true-capitulation-in-bitcoin-derivatives-expert-says",
-      "published": "2026-02-10T18:30:04+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "LMAX unveils new exchange to break the wall down between crypto and FX",
-      "link": "https://www.coindesk.com/business/2026/02/10/lmax-unveils-new-exchange-to-let-institutions-trade-any-asset-any-time",
-      "published": "2026-02-10T17:56:09+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "AI is no savior when markets get tough … but it can help, says Nickel Digital chief",
-      "link": "https://www.coindesk.com/markets/2026/02/10/ai-is-no-savior-when-markets-get-tough-but-it-can-help-says-nickel-digital-chief",
-      "published": "2026-02-10T17:24:31+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs extend rebound as $145M in fresh inflows hit market",
-      "link": "https://cointelegraph.com/news/bitcoin-etf-rebound-145-million-inflows",
-      "published": "2026-02-10T17:10:58+09:00",
-      "summary": "The Bitcoin ETF rebound comes as analysts flag slowing outflows. Early BTC holders trim positions rather than exit as BTC hovers near $70,000, according to Bitwise."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "U.S. bitcoin ETFs register back-to-back inflows for first time in a month",
-      "link": "https://www.coindesk.com/markets/2026/02/10/u-s-bitcoin-etfs-register-back-to-back-inflows-for-first-time-in-a-month",
-      "published": "2026-02-10T16:58:03+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Analysts debate whether Ether has capitulated or has further to fall",
-      "link": "https://cointelegraph.com/news/technical-indicator-is-ether-going-through-capitulation",
-      "published": "2026-02-10T15:48:59+09:00",
-      "summary": "Analysts say Ether’s MVRV Z-Score has entered capitulation territory at -0.42 after falling 30% in a fortnight, though it is still far from its worst score."
-    },
-    {
-      "cat": "crypto",
-      "source": "Decrypt",
-      "title": "Vitalik Buterin Calls for Ethereum-Led Alternative to the 'Race for AGI'",
-      "link": "https://decrypt.co/357575/vitalik-buterin-ethereum-led-alternative-race-for-agi",
-      "published": "2026-02-10T15:29:16+09:00",
-      "summary": "The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Fed’s Waller says crypto hype ‘fading’ with TradFi tie-ins",
-      "link": "https://cointelegraph.com/news/fed-waller-crypto-hype-fading-tradfi-tie-ins",
-      "published": "2026-02-10T15:20:37+09:00",
-      "summary": "The crypto market’s volatility is just “part of the game,” says Federal Reserve governor Chris Waller, who adds that traditional finance may have added to the recent market drop."
-    },
-    {
-      "cat": "crypto",
-      "source": "Decrypt",
-      "title": "US Sentences Fugitive to 20 Years Over $73 Million Crypto Scam",
-      "link": "https://decrypt.co/357572/us-sentences-fugitive-20-years-73-million-crypto-scam",
-      "published": "2026-02-10T14:23:10+09:00",
-      "summary": "The sentence was handed down in absentia after prosecutors said the defendant cut off an ankle monitor and fled supervision."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Chainlink co-founder’s 2 reasons this bear market feels different",
-      "link": "https://cointelegraph.com/news/chainlink-sergey-nazarov-bear-market-feels-different",
-      "published": "2026-02-10T14:14:23+09:00",
-      "summary": "Chainlink co-founder Sergey Nazarov says the recent crypto market downturn has inadvertently shown “how far the industry has progressed.”"
-    },
-    {
-      "cat": "crypto",
-      "source": "Decrypt",
-      "title": "Is Bitcoin's Sell-Off Finally Running Out of Steam?",
-      "link": "https://decrypt.co/357569/is-bitcoins-sell-off-finally-running-out-of-steam",
-      "published": "2026-02-10T14:02:46+09:00",
-      "summary": "Bitcoin’s sell-off shows signs of easing as large buyers step in, though analysts say any rebound still depends on institutional demand."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Ethereum Foundation teams up with SEAL to combat wallet drainers",
-      "link": "https://cointelegraph.com/news/ethereum-foundation-seal-partner-stop-wallet-drainers",
-      "published": "2026-02-10T13:53:34+09:00",
-      "summary": "SEAL and the Ethereum Foundation created a Trillion Dollar Security dashboard to track Ethereum security as part of efforts to fight wallet drainers."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Crypto exchange Backpack to launch token with unlocks tied to IPO goal",
-      "link": "https://cointelegraph.com/news/crypto-exchange-backpack-launch-token-with-unlocks-tied-ipo-ambition",
-      "published": "2026-02-10T12:55:32+09:00",
-      "summary": "Backpack founder Armani Ferrante says the company’s staff and investors won’t get an allocation at its upcoming token launch to avoid insiders “dumping on retail.”"
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Vitalik Buterin details how Ethereum could work alongside AI",
-      "link": "https://cointelegraph.com/news/vitalik-buterin-shares-vision-how-ethereum-and-ai-will-work",
-      "published": "2026-02-10T12:47:04+09:00",
-      "summary": "The Ethereum co-founder sees crypto providing privacy rails, verification systems and economic layers to help decentralize AI and benefit society."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "‘No privacy’ CBDCs will come, warns billionaire Ray Dalio",
-      "link": "https://cointelegraph.com/news/zero-privacy-highly-controlled-cbdcs-coming-soon-warns-ray-dalio",
-      "published": "2026-02-10T12:31:13+09:00",
-      "summary": "Hedge fund manager Ray Dalio warns that CBDCs will eliminate financial privacy and enable governments to tax, seize funds and cut off political opponents."
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin’s U.S. demand signal flickers back after crash",
-      "link": "https://www.coindesk.com/markets/2026/02/10/bitcoin-s-u-s-demand-signal-flickers-back-after-crash",
-      "published": "2026-02-10T12:27:07+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin rebound has hit a wall at $71,000 with sentiment at most fearful since 2022",
-      "link": "https://www.coindesk.com/markets/2026/02/10/bitcoin-faces-fresh-resistance-near-usd71-000-as-fear-gauge-hits-2022-lows",
-      "published": "2026-02-10T12:07:51+09:00",
-      "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "Decrypt",
-      "title": "Fintechs Back Fed Payments Account That Could Open Rails to Crypto Firms",
-      "link": "https://decrypt.co/357558/fintechs-fed-payments-account-open-rails-crypto-firms",
-      "published": "2026-02-10T11:50:08+09:00",
-      "summary": "Fintech groups are pressing the Fed to loosen payment access for non-banks, setting up a clash with banks over risk and crypto exposure."
-    },
-    {
-      "cat": "crypto",
-      "source": "Cointelegraph",
-      "title": "Base App sunsets Creator Rewards to double down on trading",
-      "link": "https://cointelegraph.com/news/base-app-sunset-creator-rewards-program",
-      "published": "2026-02-10T11:33:58+09:00",
-      "summary": "Base creator Jesse Pollak said after rolling out the Base App to the public in December, \"we’ve realized we need to do less, better.\""
+      "title": "Bitcoin $72K target possible if V-shaped recovery pattern completes",
+      "link": "https://cointelegraph.com/news/bitcoin-dollar72k-target-possible-if-v-shaped-recovery-pattern-completes",
+      "published": "2026-02-13T17:30:00.000Z",
+      "summary": "Bitcoin’s post-CPI rally above $69,000 may help complete the V-shaped recovery chart pattern and also confirm that $60,000 was the sell-off bottom."
     },
     {
       "cat": "ai",
-      "source": "Google AI Blog",
-      "title": "Helping kids and teens learn and grow online on Safer Internet Day",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
-      "published": "2026-02-10T11:30:00+09:00",
-      "summary": "User profile on smartphone connected to security, media, and settings icons."
+      "source": "Anthropic (Status)",
+      "title": "Elevated errors on Opus 4.6 Fast Mode",
+      "link": "https://status.claude.com/incidents/04srdy8n8cwl",
+      "published": "2026-02-13T17:13:13.000Z",
+      "summary": "Feb 13, 17:13 UTC Investigating - We are currently investigating this issue."
     },
     {
       "cat": "crypto",
       "source": "Cointelegraph",
-      "title": "Bitcoin sentiment hits record low as contrarian investors say $60K was BTC’s bottom",
-      "link": "https://cointelegraph.com/news/bitcoin-sentiment-hits-record-low-as-contrarian-investors-say-dollar60k-was-btc-s-bottom",
-      "published": "2026-02-10T10:12:17+09:00",
-      "summary": "Bitcoin’s Fear & Greed sentiment indicator fell to its lowest ever level, leading some analysts to suggest that $60,000 was the bottom for BTC. Does historical data agree?"
+      "title": "Crypto investor sentiment will rise once CLARITY Act is passed: Bessent",
+      "link": "https://cointelegraph.com/news/crypto-sentiment-rise-clarity-passed-bessent",
+      "published": "2026-02-13T17:01:06.000Z",
+      "summary": "Delaying the CLARITY market structure bill until 2027, after the US midterm elections, may significantly reduce its chances of passage, the Treasury Secretary said."
+    },
+    {
+      "cat": "crypto",
+      "source": "The Defiant",
+      "title": "Crypto Markets Rally After Softer-Than-Expected US Inflation Report",
+      "link": "https://thedefiant.io/news/markets/crypto-markets-rally-after-softer-than-expected-us-inflation-report",
+      "published": "2026-02-13T16:48:12.000Z",
+      "summary": "Total market value rose over 4% today, though risk appetite remains fragile."
+    },
+    {
+      "cat": "crypto",
+      "source": "Decrypt",
+      "title": "State-Sponsored Hackers Using Popular AI Tools Including Gemini, Google Warns",
+      "link": "https://decrypt.co/358028/state-sponsored-hackers-using-popular-ai-tools-including-gemini-google-warns",
+      "published": "2026-02-13T16:46:02.000Z",
+      "summary": "A new report from Google AI Threat Tracker shows how hackers from North Korea, Iran and Russia are using AI to speed up their attacks."
+    },
+    {
+      "cat": "crypto",
+      "source": "Decrypt",
+      "title": "Connecticut Man Faces 375 Years for Gambling Away Crypto Investors' Funds on Stake",
+      "link": "https://decrypt.co/358036/connecticut-man-faces-375-years-gambling-crypto-investors-funds-stake",
+      "published": "2026-02-13T16:42:20.000Z",
+      "summary": "The 24-year-old faces 21 criminal charges for losing nearly a million dollars worth of customer funds prosecutors say were never invested in crypto."
+    },
+    {
+      "cat": "crypto",
+      "source": "Decrypt",
+      "title": "Morning Minute: Coinbase Reports $667 Million Loss Amid Bitcoin Dive",
+      "link": "https://decrypt.co/358004/morning-minute-coinbase-667-million-loss-bitcoin-dive",
+      "published": "2026-02-13T16:32:51.000Z",
+      "summary": "While Q4 was rough and the Q1 outlook is sobering, there are plenty of signs of hope within the Coinbase ecosystem."
     },
     {
       "cat": "crypto",
       "source": "Cointelegraph",
-      "title": "MrBeast buys Gen Z bank just weeks after BitMine's $200M bet",
-      "link": "https://cointelegraph.com/news/mrbeast-acquires-gen-z-bank-step",
-      "published": "2026-02-10T09:13:06+09:00",
-      "summary": "The banking acquisition follows a trademark filing for “MrBeast Financial” in October, which specifically mentioned “cryptocurrency exchange services.”"
+      "title": "Bitcoin most 'undervalued' since March 2023 at $20K, BTC price metric shows",
+      "link": "https://cointelegraph.com/news/bitcoin-most-undervalued-since-march-2023-classic-btc-price-metric-shows",
+      "published": "2026-02-13T16:30:00.000Z",
+      "summary": "Bitcoin onchain analysis eyed a potential end to the BTC price downtrend as its MVRV ratio returned to levels not seen in three years."
     },
     {
       "cat": "crypto",
       "source": "CoinDesk",
-      "title": "McHenry predicts fast crypto deal as Witt brokers talks",
-      "link": "https://www.coindesk.com/coindesk-news/2026/02/06/mchenry-predicts-fast-crypto-deal-as-witt-brokers-talks",
-      "published": "2026-02-10T08:21:36+09:00",
+      "title": "Wall Street analysts slash Coinbase price targets after Q4 miss — but shares rally",
+      "link": "https://www.coindesk.com/markets/2026/02/13/wall-street-analysts-slash-coinbase-price-targets-after-q4-miss-but-shares-still-rally",
+      "published": "2026-02-13T16:22:43.000Z",
+      "summary": "Barclays, Benchmark, Clear Street, and JPMorgan all cut targets, citing weak retail trading and macro headwinds."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "Bitcoin passes $69K on slower US CPI print, but Fed rate-cut odds stay low",
+      "link": "https://cointelegraph.com/news/bitcoin-passes-68k-on-slower-us-cpi-print-but-fed-rate-cut-odds-stay-low",
+      "published": "2026-02-13T15:32:45.000Z",
+      "summary": "Bitcoin bulls enjoyed a relief rally to $69,000 on the back of soft US CPI inflation data amid hopes of BTC price action making a \"higher low.\""
+    },
+    {
+      "cat": "crypto",
+      "source": "Decrypt",
+      "title": "FedEx Enters Hedera Network Council With Eye on Supply Chain Transformation",
+      "link": "https://decrypt.co/358022/fedex-hedera-network-council-supply-chain-transformation",
+      "published": "2026-02-13T15:30:38.000Z",
+      "summary": "FedEx joins firms like Google, IBM, and Dell on the Hedera Council, running a network node and contributing to governance."
+    },
+    {
+      "cat": "crypto",
+      "source": "The Defiant",
+      "title": "Prediction Market Aggregator Stand Launches Counter-Trading Tool",
+      "link": "https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool",
+      "published": "2026-02-13T15:27:58.000Z",
+      "summary": "The new tool lets users automate bets against consistent losers — instead of trying to copy winners."
+    },
+    {
+      "cat": "crypto",
+      "source": "CoinDesk",
+      "title": "U.S.-based DeFi group urges UK FCA to anchor crypto rules to 'unilateral control'",
+      "link": "https://www.coindesk.com/policy/2026/02/13/u-s-based-defi-advocacy-group-urges-uk-fca-to-anchor-crypto-rules-to-unilateral-control",
+      "published": "2026-02-13T15:19:34.000Z",
+      "summary": "DeFi Education Fund says developers of non-custodial protocols should not be regulated as intermediaries under the U.K.’s proposed crypto regime."
+    },
+    {
+      "cat": "crypto",
+      "source": "CoinDesk",
+      "title": "Ethereum Foundation leadership shake-up: Tomasz Stańczak out as co-executive director",
+      "link": "https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director",
+      "published": "2026-02-13T15:07:59.000Z",
+      "summary": "Stańczak came aboard in 2025 after the exit of longtime chief Aya Miyaguchi amid criticism the foundation wasn’t doing enough to push the Ethereum ecosystem."
+    },
+    {
+      "cat": "crypto",
+      "source": "Decrypt",
+      "title": "Ransomware Hackers Targeting Employee Monitoring Software To Access Computers",
+      "link": "https://decrypt.co/358017/ransomware-hackers-targeting-employee-monitoring-software-to-access-computers",
+      "published": "2026-02-13T15:05:19.000Z",
+      "summary": "Workforce monitoring software was abused in two cases of attempted ransomware attacks, researchers from Huntress found."
+    },
+    {
+      "cat": "crypto",
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: Uniswap (UNI) jumps 5.4%, leading index higher",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/02/13/coindesk-20-performance-update-uniswap-uni-jumps-5-4-leading-index-higher",
+      "published": "2026-02-13T14:21:31.000Z",
+      "summary": "Bitcoin Cash (BCH), up 5.3% from Thursday, joined Uniswap (UNI) as a top performer."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "Binance confirms employee targeted as three arrested in France break-in",
+      "link": "https://cointelegraph.com/news/binance-france-exec-home-invasion-arrests-report",
+      "published": "2026-02-13T13:37:11.000Z",
+      "summary": "French police arrested three suspects after a break-in targeting a Binance France executive, RTL reported. Binance has confirmed a home invasion involving an employee."
+    },
+    {
+      "cat": "crypto",
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Shed $410M Amid BTC's Ongoing Slump",
+      "link": "https://decrypt.co/358008/bitcoin-etfs-shed-410m-amid-btcs-ongoing-slump",
+      "published": "2026-02-13T13:34:34.000Z",
+      "summary": "U.S. spot Bitcoin ETFs saw $410M in outflows Thursday as institutional profit-taking and macro hedging create a \"liquidity mirage.\""
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "Are quantum-proof Bitcoin wallets insurance or a fear tax?",
+      "link": "https://cointelegraph.com/news/quantum-proof-bitcoin-wallets-insurance-fear-tax",
+      "published": "2026-02-13T13:30:00.000Z",
+      "summary": "Post-quantum Bitcoin wallets are already on sale, leaving investors to decide whether they’re buying insurance or paying up fear tax."
+    },
+    {
+      "cat": "crypto",
+      "source": "CoinDesk",
+      "title": "Crypto market wobbles as investors ignore good news, look for ‘exit ramp’",
+      "link": "https://www.coindesk.com/daybook-us/2026/02/13/crypto-market-wobbles-as-investors-ignore-good-news-look-for-the-exit-ramp",
+      "published": "2026-02-13T12:38:13.000Z",
+      "summary": "Your day-ahead look for Feb. 13, 2026"
+    },
+    {
+      "cat": "crypto",
+      "source": "Decrypt",
+      "title": "Kalshi Taps Sports Insurance Market With Game Point Capital Deal as Regulatory Battles Mount",
+      "link": "https://decrypt.co/358000/kalshi-taps-sports-insurance-market-with-game-point-capital-deal-as-regulatory-battles-mount",
+      "published": "2026-02-13T12:27:58.000Z",
+      "summary": "Kalshi expands sports risk hedging while courts weigh bans and U.S. regulators signal broader oversight of prediction markets."
+    },
+    {
+      "cat": "crypto",
+      "source": "CoinDesk",
+      "title": "Ark Invest buys $18 million of crypto stocks including 10th consecutive Bullish purchase",
+      "link": "https://www.coindesk.com/markets/2026/02/13/ark-invest-buys-usd18-million-of-crypto-stocks-including-10th-consecutive-bullish-purchase",
+      "published": "2026-02-13T12:13:07.000Z",
+      "summary": "Ark also bought $12 million worth of crypto-friendly investment platform Robinhood and $4 million worth of ether treasury firm Bitmine Immersion Technologies."
+    },
+    {
+      "cat": "crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether little changed before U.S. inflation report",
+      "link": "https://www.coindesk.com/markets/2026/02/13/bitcoin-ether-little-changed-before-u-s-inflation-report",
+      "published": "2026-02-13T11:51:20.000Z",
+      "summary": "Derivatives show tentative optimism, with cleaned-up leverage, positive funding rates and rising institutional basis, even though traders are still paying a premium for short-term downside protection."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
+      "link": "https://cointelegraph.com/news/pgi-ceo-20-year-sentence-200m-crypto-scheme",
+      "published": "2026-02-13T11:29:52.000Z",
+      "summary": "A federal judge sentenced PGI founder Ramil Palafox to 20 years in prison for running a Bitcoin Ponzi scheme that raised over $200 million from customers between 2019 and 2021."
+    },
+    {
+      "cat": "crypto",
+      "source": "Decrypt",
+      "title": "Elon Musk Accuses Anthropic AI of Being 'Misanthropic' After $30B Funding Round",
+      "link": "https://decrypt.co/357997/elon-musk-accuses-anthropic-ai-of-being-misanthropic-after-30b-funding-round",
+      "published": "2026-02-13T11:05:58.000Z",
+      "summary": "Anthropic’s funding round lands as AI company rivalry turns increasingly public and personal among top founders."
+    },
+    {
+      "cat": "ai",
+      "source": "OpenAI",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "link": "https://openai.com/index/new-result-theoretical-physics",
+      "published": "2026-02-13T11:00:00.000Z",
+      "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators."
+    },
+    {
+      "cat": "crypto",
+      "source": "CoinDesk",
+      "title": "PGI Global CEO handed 20-year sentence for $200 million bitcoin, forex Ponzi scheme",
+      "link": "https://www.coindesk.com/policy/2026/02/13/pgi-global-ceo-gets-20-years-sentence-over-usd200-million-bitcoin-ponzi-scheme",
+      "published": "2026-02-13T10:59:32.000Z",
+      "summary": "Instead of investing in bitcoin and foreign currency trading, as promised, Palafox used new investor funds to pay old ones and siphoned millions for personal use."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
+      "link": "https://cointelegraph.com/news/seoul-police-22-bitcoin-missing-cold-wallet",
+      "published": "2026-02-13T10:55:19.000Z",
+      "summary": "The loss was uncovered during an audit launched after a separate 320 Bitcoin custody failure, raising fresh concerns over digital asset management by authorities."
+    },
+    {
+      "cat": "crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin’s long-term rally is ‘broken’ until it reclaims $85,000, Deribit executive says",
+      "link": "https://www.coindesk.com/markets/2026/02/13/bitcoin-s-long-term-rally-is-broken-until-it-reclaims-usd85-000-deribit-executive-says",
+      "published": "2026-02-13T10:19:13.000Z",
+      "summary": "A bitcoin price drop to $58,000 could reignite buying momentum."
+    },
+    {
+      "cat": "ai",
+      "source": "OpenAI",
+      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+      "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+      "published": "2026-02-13T10:00:00.000Z",
+      "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
+      "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-agree-merger-to-build-european-crypto-hub",
+      "published": "2026-02-13T09:54:52.000Z",
+      "summary": "Boerse Stuttgart will merge its crypto arm with Tradias, creating a regulated European crypto unit providing services in trading, custody, staking and tokenized assets."
+    },
+    {
+      "cat": "crypto",
+      "source": "CoinDesk",
+      "title": "Wall Street analysts cut Coinbase price targets following Q4 earnings miss",
+      "link": "https://www.coindesk.com/markets/2026/02/13/wall-street-analysts-cut-coinbase-price-targets-following-q4-earnings-miss",
+      "published": "2026-02-13T09:50:28.000Z",
+      "summary": "JPMorgan said weak crypto markets pressured fourth-quarter results, but backs Coinbase’s strategy of investing through the cycle and returning capital via buybacks."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "Aave Labs seeks $50M grant to redirect product revenue to DAO",
+      "link": "https://cointelegraph.com/news/aave-labs-50m-dao-revenue-proposal",
+      "published": "2026-02-13T09:18:26.000Z",
+      "summary": "Some community members questioned the size of the $50 million package and warned that the proposed AAVE token grant could concentrate voting power."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs bleed $410M as Standard Chartered slashes BTC target",
+      "link": "https://cointelegraph.com/news/bitcoin-etf-410-million-outflows-standard-chartered-cut-target",
+      "published": "2026-02-13T09:04:36.000Z",
+      "summary": "US spot Bitcoin ETFs are on track for a fourth consecutive week of losses as Standard Chartered cut its 2026 Bitcoin target to $100,000."
+    },
+    {
+      "cat": "ai",
+      "source": "OpenAI",
+      "title": "Beyond rate limits: scaling access to Codex and Sora",
+      "link": "https://openai.com/index/beyond-rate-limits",
+      "published": "2026-02-13T09:00:00.000Z",
+      "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex."
+    },
+    {
+      "cat": "ai",
+      "source": "OpenAI",
+      "title": "Scaling social science research",
+      "link": "https://openai.com/index/scaling-social-science-research",
+      "published": "2026-02-13T09:00:00.000Z",
+      "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale."
+    },
+    {
+      "cat": "crypto",
+      "source": "CoinDesk",
+      "title": "Recapping Consensus Hong Kong",
+      "link": "https://www.coindesk.com/business/2026/02/13/recapping-consensus-hong-kong",
+      "published": "2026-02-13T08:33:57.000Z",
+      "summary": "Crypto's role in payments for AI, regulatory changes and the digital asset market dominated conversations on the ground."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "ETHZilla offers token tied to jet engine leases amid tokenization pivot",
+      "link": "https://cointelegraph.com/news/ethzilla-tokenized-jet-engines-rwa-ethereum-liquidity-io",
+      "published": "2026-02-13T06:15:26.000Z",
+      "summary": "Crypto treasury firm ETHZilla recently sold some of its crypto to begin a tokenization push by buying two jet engines leased to a US airline."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "Crypto use in human trafficking networks surged in 2025: Chainalysis",
+      "link": "https://cointelegraph.com/news/crypto-use-in-human-trafficking-networks-surged-in-2025-chainalysis",
+      "published": "2026-02-13T05:21:28.000Z",
+      "summary": "Chainalysis says that despite the rising use of crypto in trafficking networks, the transparency of blockchain may give visibility into the operations, aiding law enforcement."
+    },
+    {
+      "cat": "crypto",
+      "source": "Cointelegraph",
+      "title": "Israel arrests two over Polymarket trades on military operations",
+      "link": "https://cointelegraph.com/news/israel-arrests-two-polymarket-trades-militiary-strikes",
+      "published": "2026-02-13T05:08:59.000Z",
+      "summary": "Israeli authorities said a military reservist and a civilian were arrested after allegedly using classified information to place bets related to military strikes on Iran."
+    },
+    {
+      "cat": "crypto",
+      "source": "Decrypt",
+      "title": "US Prosecutors Warn of Crypto-Linked Romance Scams Ahead of Valentine’s Day",
+      "link": "https://decrypt.co/357994/valentines-day-alert-romance-scams",
+      "published": "2026-02-13T04:58:19.000Z",
+      "summary": "Many of the cases now intersect with “pig-butchering” schemes, long-form scams blending emotional grooming with fake crypto platforms."
+    },
+    {
+      "cat": "crypto",
+      "source": "Ethereum Foundation Blog",
+      "title": "Executive Leadership Update",
+      "link": "https://blog.ethereum.org/en/2026/02/13/leadership-update",
+      "published": "2026-02-13T00:00:00.000Z",
+      "summary": "Today, we are announcing a transition in the executive leadership team at the Ethereum Foundation. After extensive contributions to the Foundation’s mission and operations, Tomasz Stańczak has decided to step down from his role as Co-Executive Director. The Foundation’s Board has appointed Bastian Aue to serve as interim Co-Executive Director,..."
+    },
+    {
+      "cat": "crypto",
+      "source": "Ethereum Foundation Blog",
+      "title": "An update from Tomasz",
+      "link": "https://blog.ethereum.org/en/2026/02/13/tomasz-update",
+      "published": "2026-02-13T00:00:00.000Z",
+      "summary": "tl;dr I am stepping down from my co-ED role at the EF at the end of February 2026. Bastian Aue is taking over the co-ED role alongside Hsiao-Wei. The future is bright for builders, for Ethereum, for the EF, and for me...."
+    },
+    {
+      "cat": "ai",
+      "source": "Hugging Face",
+      "title": "Custom Kernels for All from Codex and Claude",
+      "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+      "published": "2026-02-13T00:00:00.000Z",
       "summary": ""
-    },
-    {
-      "cat": "crypto",
-      "source": "Decrypt",
-      "title": "AI Promised to Save Time—Instead It's Created a New Kind of Burnout",
-      "link": "https://decrypt.co/357527/ai-save-time-instead-created-new-kind-burnout",
-      "published": "2026-02-10T07:24:32+09:00",
-      "summary": "UC-Berkeley and Yale researchers found that AI tools don't reduce work; they intensify it by creating workload creep and widespread burnout."
-    },
-    {
-      "cat": "crypto",
-      "source": "Decrypt",
-      "title": "Jump Trading to Earn Stakes in Polymarket, Kalshi via Liquidity Deals: Bloomberg",
-      "link": "https://decrypt.co/357519/jump-trading-earn-stakes-polymarket-kalshi",
-      "published": "2026-02-10T06:55:38+09:00",
-      "summary": "Global trading firm Jump will score stakes in prediction market platforms Kalshi and Polymarket for its market-making services, per a report."
     }
-  ]
+  ],
+  "errors": []
 }
